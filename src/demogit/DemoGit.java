@@ -19,6 +19,7 @@ public class DemoGit {
         int a;
         int b;
         int c= a+b;
+        int d=a+b+c;
     }
 
 }
